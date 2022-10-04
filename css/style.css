@@ -127,10 +127,10 @@ main {
   }
 
   .container {
-    width: 400px;
+    width: 320px;
   }
   .banner {
-    width: 30%;
+    width: 40%;
     margin-left: 1rem;
     margin-top: 1rem;
   }
@@ -142,7 +142,7 @@ main {
     margin-top: 0rem;
   }
   .image {
-    height: 33%;
+    height: 22%;
     margin-bottom: 1rem;
   }
   .info {
@@ -156,7 +156,7 @@ main {
     margin-bottom: 2rem;
   }
   .info > h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding: 0rem 1.5rem;
   }
   .info > p {
@@ -175,7 +175,7 @@ main {
     align-items: center;
     justify-content: center;
 
-    margin: 0;
+    margin: 0 0 2rem 0;
     padding: 0;
   }
   .fab {
